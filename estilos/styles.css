@@ -71,6 +71,20 @@ h4 {
     margin: auto;
     text-align: center;
 }
+#titulo{
+    text-align:center;
+}
+#link-intereses{
+    border-radius: .5em;
+    background-color:#FFFFFF;
+    margin-right:30px;
+    margin-left:30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 50px;
+    min-height: 500px;
+}
 
 /*Clases*/
 
@@ -89,7 +103,7 @@ h4 {
     text-shadow: 0.1em 0.1em 0.2em black;
     color:black;
     padding:20px;
-    display:black;
+    display:block;
     border-radius: .5em;
 }
 
@@ -108,8 +122,4 @@ h4 {
 
 .articulo1{
     border:1px solid;
-}
-
-#titulo{
-    text-align:center;
 }
